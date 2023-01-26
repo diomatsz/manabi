@@ -1,2 +1,2 @@
 # JavaScript
-grasshopper [link](https://grasshopper.app/{:target="_blank"})
+grasshopper [link](https://grasshopper.app/){:target="_blank"}
