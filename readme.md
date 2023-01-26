@@ -12,3 +12,9 @@
 3. Made by Google's workshop<br>
 "Grasshopper was created by a team of passionate coders from Google’s workshop for experimental products, Area 120. Coding is becoming such an essential skill, and we want to make it possible for everyone to learn even when life gets busy. We made Grasshopper to help folks like you get into coding in a fun and easy way. And we put Grasshopper on a phone so you can turn your commute or waiting in line into a learning moment. We hope you like it and that it helps you embark or continue your journey in learning to code."
 
+# Computer Science
+<li> CS50: Computer Science Courses and Programs from Harvard (https://www.edx.org/cs50)</li>
+1. Courses from Harvard<br>
+2. Professional Certificate programs<br>
+3. Free<br>
+"Introduction to Computer Science from Harvard, better known as CS50, is the largest course on the Harvard campus and more than 2,000,000 learners worldwide have registered for the course on edX. We are excited to offer a series of introductory CS50 courses and Professional Certificate programs from Harvard that are open to learners of all backgrounds looking to explore computer science, mobile app and game development, business technologies, and the art of programming."
