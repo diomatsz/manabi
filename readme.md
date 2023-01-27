@@ -8,12 +8,12 @@
 
 
 # JavaScript
+- [Beginner's Tutorial for React JavaScript Library](https://www.youtube.com/watch?v=bMknfKXIFA8) - React Course, YouTube video, 12hours
+
 - [grasshopper](https://grasshopper.app/) - Free, Friendly, Made by Google's workshop
 > Grasshopper was created by a team of passionate coders from Google’s workshop for experimental products, Area 120. Coding is becoming such an essential skill, and we want to make it possible for everyone to learn even when life gets busy. We made Grasshopper to help folks like you get into coding in a fun and easy way. And we put Grasshopper on a phone so you can turn your commute or waiting in line into a learning moment. We hope you like it and that it helps you embark or continue your journey in learning to code.
 
 - [codeacademy](https://www.codecademy.com/catalog/language/javascript)
-
-- [Beginner's Tutorial for React JavaScript Library](https://www.youtube.com/watch?v=bMknfKXIFA8) - React Course, YouTube video, 12hours
 
 - [udemy JavaScript Essencials](https://www.udemy.com/course/javascript-essentials/) - Learn how Javascript works, some basic API's and finally create a mini project. 6.5 hours course
 
