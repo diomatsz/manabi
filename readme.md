@@ -24,6 +24,9 @@
 
 - [NFT smart contract break down](https://twitter.com/0xCygaar/status/1585071495646425089?s=20&t=wbbUvVoUbFCCEPhpdt6MDg) - Twitter post
 
+# Useful websites
+- [pexels.com](https://www.pexels.com/) - Free stock photos & videos you can use everywhere. Browse millions of high-quality royalty free stock images & copyright free pictures.
+
 # Useful AI tools
 - [Copy AI](https://www.copy.ai/)
 > Say goodbye to creator's block! Copy AI helps you put together written content and copy in no time. Their powerful AI produces high-quality content in a fraction of the time it would usually take to write something up yourself. [@NikkiSiapno](https://twitter.com/NikkiSiapno)
@@ -45,3 +48,5 @@
 
 - [Simplified](https://simplified.com/)
 > Everything you need to run a content creation business in one place! It's a copywriter, video editor, animator, and social media manager. It even supports 20 languages. [@NikkiSiapno](https://twitter.com/NikkiSiapno)
+
+- 【要チェック】["AIded Creation"](https://twitter.com/daniel_eckler/status/1578038510761791488?s=20&t=wbbUvVoUbFCCEPhpdt6MDg)
