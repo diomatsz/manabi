@@ -15,6 +15,8 @@
 
 - [Beginner's Tutorial for React JavaScript Library](https://www.youtube.com/watch?v=bMknfKXIFA8) - React Course, YouTube video, 12hours
 
+- [udemy JavaScript Essencials](https://www.udemy.com/course/javascript-essentials/) - Learn how Javascript works, some basic API's and finally create a mini project. 6.5 hours course
+
 ### GitHub Repositories
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - wtfjs
