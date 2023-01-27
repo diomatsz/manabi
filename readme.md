@@ -16,7 +16,7 @@
 - [Beginner's Tutorial for React JavaScript Library](https://www.youtube.com/watch?v=bMknfKXIFA8) - React Course, YouTube video, 12hours
 
 ### GitHub Repositories
-- You-Dont-Know-JS
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - wtfjs
 - javascript-algorithms
 - clean-code-javascript
