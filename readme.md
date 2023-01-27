@@ -15,6 +15,16 @@
 
 - [Beginner's Tutorial for React JavaScript Library](https://www.youtube.com/watch?v=bMknfKXIFA8) - React Course, YouTube video, 12hours
 
+### GitHub Repositories
+- You-Dont-Know-JS
+- wtfjs
+- javascript-algorithms
+- clean-code-javascript
+- javascript-questions
+- ES6-for-humans
+- JavaScript30
+- js-stack-from-scratch
+
 # Computer Science
 - [CS50: Computer Science Courses and Programs from Harvard](https://www.edx.org/cs50) - Courses from Harvard, Professional Certificate programs, Free
 > Introduction to Computer Science from Harvard, better known as CS50, is the largest course on the Harvard campus and more than 2,000,000 learners worldwide have registered for the course on edX. We are excited to offer a series of introductory CS50 courses and Professional Certificate programs from Harvard that are open to learners of all backgrounds looking to explore computer science, mobile app and game development, business technologies, and the art of programming.
