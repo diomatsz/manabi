@@ -108,6 +108,6 @@
 - 【要チェック】["AIded Creation"](https://twitter.com/daniel_eckler/status/1578038510761791488?s=20&t=wbbUvVoUbFCCEPhpdt6MDg)
 
 # Random Links
-- The art of misdirection |[TED.com](https://www.ted.com/talks/apollo_robbins_the_art_of_misdirection)
-- PhotoScan by Google Photos |[App Store](https://apps.apple.com/jp/app/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-by-google-%E3%83%95%E3%82%A9%E3%83%88/id1165525994)
-- PowerPoint motion graphics |[blog.re-presentation](http://blog.re-presentation.jp/powerpoint-motiongraphics/)
+- The art of misdirection | [TED.com](https://www.ted.com/talks/apollo_robbins_the_art_of_misdirection)
+- PhotoScan by Google Photos | [App Store](https://apps.apple.com/jp/app/%E3%83%95%E3%82%A9%E3%83%88%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3-by-google-%E3%83%95%E3%82%A9%E3%83%88/id1165525994)
+- PowerPoint motion graphics | [blog.re-presentation](http://blog.re-presentation.jp/powerpoint-motiongraphics/)
